@@ -77,7 +77,7 @@ Full-stack quiz application with authentication, protected dashboards and score 
 
 ## 🌐 Connect With Me
 
-- **Portfolio:** https://shlok45.netlify.app/
+- **Portfolio:** https://shlok78.netlify.app/
 - **GitHub:** https://github.com/cod-op
 
 ---
