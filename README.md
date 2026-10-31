@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | AI-Powered Applications</h3>
 
 <p align="center">
-  <a href="https://shlok45.netlify.app/">
+  <a href="https://shlok78.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/cod-op">
